@@ -1,4 +1,4 @@
-# 📊 Monte Carlo Simulation of NPV in Long-Term Care Insurance  
+# 📊Stochastic Valuation & Tail-Risk Modeling in Long-Term Care Insurance
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)  
 [![NumPy](https://img.shields.io/badge/NumPy-✓-orange.svg)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-✓-green.svg)](https://pandas.pydata.org/) 
